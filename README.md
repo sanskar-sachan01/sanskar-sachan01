@@ -6,10 +6,6 @@
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sanskar+Sachan+%F0%9F%91%BE;Game+Developer+in+Progress+%F0%9F%8E%AE;Prompt+Engineer+%7C+C%2B%2B+Dev+%7C+DSA+Grinder;CST+Student+%40+Alta+School+of+Technology;Building+worlds+one+commit+at+a+time...)](https://git.io/typing-svg)
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=00FFB3&labelColor=0d0d0d&logo=github)](https://github.com/yourusername)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
